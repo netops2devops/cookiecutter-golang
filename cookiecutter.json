@@ -1,9 +1,9 @@
 {
-    "project_name": "my-go-project",
-    "module_name": "github.com/username/{{ cookiecutter.project_name }}",
-    "description": "A Go project",
-    "author_name": "Your Name",
-    "create_git_repo": ["yes", "no"],
-    "ci_platform": ["none", "github", "gitlab"],
-    "include_dockerfile": ["yes", "no"]
+  "project_name": "my-go-project",
+  "module_name": "github.com/username/{{ cookiecutter.project_name }}",
+  "description": "A Go project",
+  "author_name": "Your Name",
+  "create_git_repo": ["yes", "no"],
+  "ci_platform": ["none", "github", "gitlab"],
+  "include_dockerfile": ["yes", "no"]
 }
