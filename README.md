@@ -24,7 +24,7 @@ A production-ready [Cookiecutter](https://github.com/cookiecutter/cookiecutter) 
 ### Generate a new project
 
 ```bash
-cookiecutter github.com/netops2devops/cookiecutter-golang
+cookiecutter https://github.com/netops2devops/cookiecutter-golang
 ```
 
 Or from a local clone:
